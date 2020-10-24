@@ -8,8 +8,9 @@ To view project - "Open in Visual Studio"
 
 To take the current version of the quiz:
 
-Download .zip file
-Extract All
-Navigate to '\The Final Test\The Final Test\bin\Release\netcoreapp3.1'
-Run 'The Final Test.exe'
+1. Download .zip file
+2. Extract All
+3. Navigate to '\The Final Test\The Final Test\bin\Release\netcoreapp3.1'
+4. Run 'The Final Test.exe'
+
 Enjoy!

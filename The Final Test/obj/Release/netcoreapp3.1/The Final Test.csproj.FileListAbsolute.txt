@@ -1,0 +1,13 @@
+C:\Users\owenf\source\repos\The Final Test\The Final Test\bin\Release\netcoreapp3.1\The Final Test.exe
+C:\Users\owenf\source\repos\The Final Test\The Final Test\bin\Release\netcoreapp3.1\The Final Test.deps.json
+C:\Users\owenf\source\repos\The Final Test\The Final Test\bin\Release\netcoreapp3.1\The Final Test.runtimeconfig.json
+C:\Users\owenf\source\repos\The Final Test\The Final Test\bin\Release\netcoreapp3.1\The Final Test.runtimeconfig.dev.json
+C:\Users\owenf\source\repos\The Final Test\The Final Test\bin\Release\netcoreapp3.1\The Final Test.dll
+C:\Users\owenf\source\repos\The Final Test\The Final Test\bin\Release\netcoreapp3.1\The Final Test.pdb
+C:\Users\owenf\source\repos\The Final Test\The Final Test\obj\Release\netcoreapp3.1\The Final Test.csprojAssemblyReference.cache
+C:\Users\owenf\source\repos\The Final Test\The Final Test\obj\Release\netcoreapp3.1\The Final Test.AssemblyInfoInputs.cache
+C:\Users\owenf\source\repos\The Final Test\The Final Test\obj\Release\netcoreapp3.1\The Final Test.AssemblyInfo.cs
+C:\Users\owenf\source\repos\The Final Test\The Final Test\obj\Release\netcoreapp3.1\The Final Test.csproj.CoreCompileInputs.cache
+C:\Users\owenf\source\repos\The Final Test\The Final Test\obj\Release\netcoreapp3.1\The Final Test.dll
+C:\Users\owenf\source\repos\The Final Test\The Final Test\obj\Release\netcoreapp3.1\The Final Test.pdb
+C:\Users\owenf\source\repos\The Final Test\The Final Test\obj\Release\netcoreapp3.1\The Final Test.genruntimeconfig.cache
